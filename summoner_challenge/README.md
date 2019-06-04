@@ -1,4 +1,4 @@
-<img align="left" src="https://datenworks.com/img/logo.png" />
+<img align="left" src="https://datenworks.com/img/logo.png" />  
 
 
 # Development Code challenge!
@@ -14,7 +14,7 @@ League of Legends champions.
 We need to know from the strongest to the weakest order, the name and the DPS of each champion.
 Do not print any other information and make sure there are no duplicates.
 
-The Formula to calculate the DPS is:
+The Formula to calculate the DPS is:  
   DPS = ATTACK_DAMAGE * ATTACK_SPEED
 
 ### Requirements:
