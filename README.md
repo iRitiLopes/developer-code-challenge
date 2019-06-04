@@ -1,4 +1,6 @@
-# Datenworks development code challenge!
+<img align="left" src="https://datenworks.com/img/logo.png">
+
+# Development Code challenge!
 
 Welcome to Datenworks code challenge for developers, this challenge will guide you through a development of a data wrangling application, to check and fix points in a geoshape.
 
