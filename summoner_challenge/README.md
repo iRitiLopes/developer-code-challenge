@@ -14,7 +14,7 @@ League of Legends champions.
 We need to know from the strongest to the weakest order, the name and the DPS of each champion.
 Do not print any other information and make sure there are no duplicates.
 
-The Formula to calculate the DPS is:  
+The Formula to calculate the Damage Per Second(DPS) is:  
   DPS = ATTACK_DAMAGE * ATTACK_SPEED
 
 ### Requirements:
@@ -27,7 +27,7 @@ Your code will be under review of the Datenworks Engineering team.
 
 What we will consider on this evaluation:
 - **Performance**
-- **Unit and Integration Tests**
+- **Unit Tests**
 - **Isolation of responsibilities**
 - **Software Engineering concerns (cohesion, reusability, etc)**
 
