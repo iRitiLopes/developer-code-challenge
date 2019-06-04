@@ -1,4 +1,4 @@
-<img align="left" src="https://datenworks.com/img/logo.png" /><br/>
+<p><img align="left" src="https://datenworks.com/img/logo.png" /></p>
 
 
 # Development Code challenge!
