@@ -9,6 +9,6 @@ This repository was made to bring together all the tests we could use to test
 people about their knowledge.
 
 ## Challenges:  
-Here is the list os challenges we already have:  
+Here is the list of challenges we already have:  
 - [Geoshape Challenge](geoshape_challenge/)
 - [Summoner Challenge](summoner_challenge/)
