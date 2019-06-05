@@ -1,4 +1,4 @@
-<img align="left" src="https://datenworks.com/img/logo.png">
+<img align="right" height="150" src="https://datenworks.com/img/logomarca_datenworks_principal.png">
 
 # Development Code challenge!
 
