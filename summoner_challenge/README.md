@@ -19,7 +19,10 @@ The Formula to calculate the Damage Per Second(DPS) is:
 
 ### Requirements:
 
-* Write a documentation to explain how to execute it;
+* Clone this project
+* Inside the Summoner_Challlenge Folder install all dependencies using ```pip install -r requirements.txt```
+* Execute the project usingn ```python -m flask run```
+* Access in your browser localhost:5000/
 
 ## Evaluation Method
 
